@@ -5,29 +5,30 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="gms_app_name">MicroG</string>
-    <string name="gms_settings_name">MicroG Settings</string>
-    <string name="gms_settings_summary">Setup MicroG services</string>
+    <string name="gms_settings_name">إعدادات MicroG</string>
+    <string name="gms_settings_summary">إعداد خدمات MicroG</string>
 
-    <string name="just_a_sec">Just a sec…</string>
-    <string name="ask_permission_tos">By continuing, you allow this app and Google to use your information in accordance with their respective terms of service and privacy policies</string>
+    <string name="just_a_sec">لحظة…</string>
+    <string name="ask_permission_tos">من خلال المتابعة، فإنك تسمح لهذا التطبيق وGoogle باستخدام معلوماتك وفقًا لشروط الخدمة وسياسات الخصوصية الخاصة بكل منهما</string>
     <string name="ask_scope_permission_title"><xliff:g example="F-Droid">%1$s</xliff:g> would like to:</string>
     <string name="ask_service_permission_title"><xliff:g example="F-Droid">%1$s</xliff:g> would like to use:</string>
 
-    <string name="privacy_title">Privacy</string>
-    <string name="prefcat_applications">Applications</string>
-    <string name="prefcat_authentication">Authentication</string>
+    <string name="privacy_title">الخصوصية</string>
+    <string name="prefcat_applications">التطبيقات</string>
+    <string name="prefcat_authentication">المزامنة</string>
 
-    <string name="sorry">Sorry…</string>
-    <string name="auth_before_connect">"Connect Google account with MicroG.
+    <string name="sorry">عذرا…</string>
+    <string name="auth_before_connect">"ربط حساب جوجل مع MicroG.
 
-Let's connect to a Google account, use the <b>Sign in</b> button or use the <b>Huawei</b> button if you have a device with this manufacturer. By pressing on one of the buttons you will be redirected to the page to login to your account."</string>
-    <string name="auth_sign_in">Sign in</string>
-    <string name="auth_connecting">"Your device is establishing a connection to Google’s servers to sign you in.
+دعنا نتصل بحساب Google، استخدم زر <b>تسجيل الدخول</b> او استخدم زر <b>Huawei</b> إذا كان لديك جهاز مع هذه الشركة المصنعة. بالضغط على أحد الأزرار سيتم إعادة توجيهك إلى الصفحة لتسجيل الدخول إلى حسابك."</string>
+    <string name="auth_sign_in">تسجيل الدخول</string>
+    <string name="auth_connecting">"يقوم جهازك بإنشاء اتصال بخوادم Google لتسجيل دخولك.
+      
+      قد يستغرق هذا بضع ثوانٍ"</string>
+    <string name="no_network_error_desc">"
+ليس لديك اتصال بالشبكة.
 
-This can take a few seconds"</string>
-    <string name="no_network_error_desc">"You don’t have a network connection.
-
-This could be a temporary problem or your Android device may not be provisioned for data services. Try again when connected to a mobile network, or connect to a Wi-Fi network"</string>
+قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android الخاص بك مزودًا بخدمات البيانات. حاول مرة أخرى عند الاتصال بشبكة جوال، أو اتصل بشبكة Wi-Fi"</string>
     <string name="auth_general_error_desc">"There was a problem communicating with Google servers.
 
 Try again later"</string>
